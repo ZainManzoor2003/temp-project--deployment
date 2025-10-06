@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+        {
+            "source": "/updated",
+            "destination": "/release-landing-updated.html"
+        },
+        {
+            "source": "/index",
+            "destination": "/release-landing-updated (1).html"
+        }
+    ]
+}
