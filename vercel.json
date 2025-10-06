@@ -1,11 +1,7 @@
 {
     "rewrites": [
         {
-            "source": "/release-landing-updated",
-            "destination": "/release-landing-updated.html"
-        },
-        {
-            "source": "/release-landing-updated (1)",
+            "source": "/(.*)",
             "destination": "/release-landing-updated (1).html"
         }
     ]
